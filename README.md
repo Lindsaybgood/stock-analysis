@@ -4,16 +4,17 @@
 **_Background:_** Doing some more research to expand the dataset to include the entire stock market over the last few years. 
 
 ### **Results**
-**_Results Before:_** Before refactoring the code the resulting times to execute were 0.169688 seconds for 2017 data and .05703125 seconds for 2018 data
+**_Results Before:_** Before refactoring the code the resulting times to execute were 1.015625 seconds for 2017 data and 1.066406 seconds for 2018 data
 
-![2017 before refactoring](https://utoronto.bootcampcontent.com/smacpherson/stock-analysis/-/raw/master/Resources/2017_before_refactoring.png)
-![2018 before refactoring](https://utoronto.bootcampcontent.com/smacpherson/stock-analysis/-/raw/master/Resources/2018_before_refactoring.png)
+![Old 2017](https://user-images.githubusercontent.com/96216509/148696891-83e443b1-84a7-4481-acb7-bf5c07f7c1cf.png)
+![old 2018](https://user-images.githubusercontent.com/96216509/148696901-19012310-8979-4b42-8cc5-ba8451d6deef.png)
 
 
-**_Results After:_** After refactoring the code the resulting times to execute were 0.109375 seconds for 2017 data and 0.1054688 seconds for 2018 data
+**_Results After:_** After refactoring the code the resulting times to execute were 0.25 seconds for 2017 data and 0.2148438 seconds for 2018 data
 
-![2017 after refactoring](https://utoronto.bootcampcontent.com/smacpherson/stock-analysis/-/raw/master/Resources/VBA_Challenge_2017.png)
-![2018 after refactoring](https://utoronto.bootcampcontent.com/smacpherson/stock-analysis/-/raw/master/Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/96216509/148696938-8f87accb-d8cf-47e7-8bfe-08e16af67450.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/96216509/148696956-b2d20d9a-aea8-46e1-9c06-39cacfa6dd27.png)
+
 
 **_Conclusion:_** Refactoring the code successfully made the VBA script run faster.
 
